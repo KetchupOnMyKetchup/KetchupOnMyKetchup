@@ -11,7 +11,7 @@
 
 **To-Do List in Azure (Azure DevOps CI/CD Tutorial (2018)**
 - https://github.com/KetchupOnMyKetchup/ToDoList  | [Labs](https://github.com/KetchupOnMyKetchup/ToDoList/wiki)
-_8-part hands-on tutorial with proof of concept to display an Azure App Service website communicating with an API project and Azure SQL back-end.  Shows setup of a VSTS CI/CD pipeline.  The project's technology stack is C#, Angular JS, and SQL. Presented project at local meetup (St. Pete .NET Meetup)._
+- _8-part hands-on tutorial with proof of concept to display an Azure App Service website communicating with an API project and Azure SQL back-end.  Shows setup of a VSTS CI/CD pipeline.  The project's technology stack is C#, Angular JS, and SQL. Presented project at local meetup (St. Pete .NET Meetup)._
 
 **Premier Developer Support (MSDN) Blog	2017-2018**
 - https://blogs.msdn.microsoft.com/premier_developer/tag/crystal-tenn/
